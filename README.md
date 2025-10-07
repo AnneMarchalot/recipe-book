@@ -20,4 +20,7 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
-[![example text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+[![example text](https://img.shields.io/badge/text-example-blue)](https://example.org)
+
+# badge without link
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
